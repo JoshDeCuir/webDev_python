@@ -7,10 +7,10 @@
 
   <h2>What You'll Learn:</h2>
   <p>
-  -<b>Python Basics:</b> Understand the core concepts of Python programming.
-  -<b>Ojbect-Oriented Programming (OOP):</b> Create classes and objects to model recipes and ingredients.
-  -<b>Database Integration:</b> Set up a database to store recipes and explore object-relation mapping (ORM) techmiques.
-  -<b>Best Practices:</b> Learn standard Python programming practices to make your code simple, understandable, and efficient.
+  *<b>Python Basics:</b> Understand the core concepts of Python programming.
+  *<b>Ojbect-Oriented Programming (OOP):</b> Create classes and objects to model recipes and ingredients.
+  *<b>Database Integration:</b> Set up a database to store recipes and explore object-relation mapping (ORM) techmiques.
+  *<b>Best Practices:</b> Learn standard Python programming practices to make your code simple, understandable, and efficient.
   </p>
   <h2>Getting Started:</h2>
   <p>To begin your journey with the Python Recipe App, follow these steps:</p>
