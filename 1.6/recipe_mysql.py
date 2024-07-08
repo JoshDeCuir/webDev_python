@@ -233,7 +233,7 @@ def update_recipe(conn, cursor):
             print()
             print('Invalid input. Please enter a valid number.\n')
 
-    selected_recipe = next(result for result in results if result[0] == recipe_id),
+    selected_recipe = next((result for result in results if result[0] == recipe_id), None)
     if selected_recipe:
         print(f"Which field would you like to update for '{selected_recipe[1]}'?")
     else:
